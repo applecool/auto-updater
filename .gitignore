@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+src/typings/*/
+src/typings/index.d.ts
+/build
+/dist
+package-lock.json
+/bin
